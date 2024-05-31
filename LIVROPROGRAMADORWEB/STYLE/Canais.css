@@ -1,0 +1,21 @@
+.Canais{
+    width: 200px; /* ajuste conforme necessário */
+  height: 200px; /* ajuste conforme necessário */
+  border-radius: 50%; /* Isso cria um formato de círculo */
+  overflow: hidden; /* Isso faz com que a imagem seja cortada para se ajustar ao círculo */
+  margin: 20px; /* Ajuste conforme necessário para a margem */
+  border: 2px solid #090123; /* Cor da borda da sua escolha */
+  width: 10%;
+  height: 10%;
+  object-fit: cover;
+}
+.title{
+    font-size: 36px; /* Tamanho da fonte */
+  font-family: Arial, sans-serif; /* Escolha uma fonte */
+  color: #333; /* Cor do texto */
+  letter-spacing: 1px; /* Espaçamento entre letras */
+  line-height: 1.2; /* Altura da linha */
+  margin-bottom: 20px; /* Margem inferior */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Sombra do texto */
+}
+
